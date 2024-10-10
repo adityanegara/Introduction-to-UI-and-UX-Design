@@ -1,0 +1,2 @@
+# AB Testing
+Dikenal juga dengan sebutan split testing, ialah metode quantitative user research, dimana pengguna ditunjukan ke dua versi dari design yang sama untuk mengidentifikasi design mana yang memiliki performa lebih baik. 
